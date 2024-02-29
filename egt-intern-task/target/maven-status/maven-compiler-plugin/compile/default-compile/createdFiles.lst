@@ -1,0 +1,7 @@
+com\egt\intern\task\model\Currency.class
+com\egt\intern\task\EgtInternTask.class
+com\egt\intern\task\controller\CurrencyController.class
+com\egt\intern\task\service\CurrencyService.class
+com\egt\intern\task\service\CurrencyRetrievalService.class
+com\egt\intern\task\repository\CurrencyRepository.class
+com\egt\intern\task\util\AppConfig.class
